@@ -45,7 +45,6 @@ public class ModGroup {
             itemGroup.add(ModBlock.REACTOR_0);
             itemGroup.add(ModBlock.REACTOR_1);
             itemGroup.add(ModBlock.REACTOR_2);
-            itemGroup.add(ModItem.QJF);
             });
     }
 }
