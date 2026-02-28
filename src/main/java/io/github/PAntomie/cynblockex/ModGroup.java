@@ -47,6 +47,7 @@ public class ModGroup {
             itemGroup.add(ModBlock.REACTOR_2);
             itemGroup.add(ModItem.I1);
             itemGroup.add(ModItem.I2);
+            itemGroup.add(ModItem.UNKNOWN_ITEM);
             });
     }
 }
