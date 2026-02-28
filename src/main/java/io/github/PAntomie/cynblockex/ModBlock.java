@@ -48,4 +48,5 @@ public class ModBlock {
     public static final Block P11 = register("p11", Block::new, AbstractBlock.Settings.copy(Blocks.STONE), true);
     public static final Block P12 = register("p12", Block::new, AbstractBlock.Settings.copy(Blocks.STONE), true);
     public static void initialize() {}
+    public static final Block P13 = register("p13", Block::new, AbstractBlock.Settings.copy(Blocks.STONE), true);
 }

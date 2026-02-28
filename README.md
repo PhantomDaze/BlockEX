@@ -24,7 +24,7 @@ Contributions are welcome! If you'd like to contribute to this project, you can 
 Except for textures, the rest of the mod is open source under the GPLv3 license. The textures can only be used to build this mod and should not be shared anywhere else.
 
 ## Credits
-- **Code:** Antomie-P [Bilibili Space](https://space.bilibili.com/1590285979)
+- **Code:** PhantomDaze [Bilibili Space](https://space.bilibili.com/1590285979)
 - **Textures:** Renbing [Bilibili Space](https://space.bilibili.com/652007197)
 
 ## Link

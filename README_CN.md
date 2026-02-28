@@ -18,7 +18,7 @@ C.Y.N. BlockEX 是一个使用 Fabric 模组加载器的 Minecraft 1.21.5 的模
 ## 许可证
 除了纹理外，其余模组代码均在 GPLv3 许可下开源。这些纹理只能用于构建此模组，不应在其他地方分享。
 ## 致谢
-- **代码:** Antomie-P [Bilibili个人空间](https://space.bilibili.com/1590285979)
+- **代码:** PhantomDaze [Bilibili个人空间](https://space.bilibili.com/1590285979)
 - **纹理:** Renbing [Bilibili个人空间](https://space.bilibili.com/652007197)
 ## 链接
 - **源码:** [GitHub 仓库](https://github.com/PAntomie/BlockEX)
