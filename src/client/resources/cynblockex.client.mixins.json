@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "io.github.PAntomie.cynblockex.mixin.client",
+	"package": "io.github.PhantomDaze.cynblockex.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-      "cynblockexClientMixin"
+		"cynblockexClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

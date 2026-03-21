@@ -1,13 +1,13 @@
-package io.github.PAntomie.cynblockex.mixin.client;
+package io.github.PhantomDaze.cynblockex.mixin;
 
-import net.minecraft.client.MinecraftClient;
+import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-@Mixin(MinecraftClient.class)
-public class cynblockexClientMixin {
-	@Inject(at = @At("HEAD"), method = "run")
+@Mixin(MinecraftServer.class)
+public class cynblockexMixin {
+	@Inject(at = @At("HEAD"), method = "loadWorld")
 	private void init(CallbackInfo info) {}
 }

@@ -1,4 +1,4 @@
-package io.github.PAntomie.cynblockex;
+package io.github.PhantomDaze.cynblockex;
 
 import com.google.gson.Gson;
 
@@ -12,7 +12,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-import static io.github.PAntomie.cynblockex.cynblockexMod.LOGGER;
+import static io.github.PhantomDaze.cynblockex.cynblockexMod.LOGGER;
 
 public class UpdateChecker {
     public static boolean isNewVersionAvailable = false;

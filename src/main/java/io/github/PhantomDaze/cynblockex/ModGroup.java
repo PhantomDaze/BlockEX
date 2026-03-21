@@ -1,4 +1,4 @@
-package io.github.PAntomie.cynblockex;
+package io.github.PhantomDaze.cynblockex;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;

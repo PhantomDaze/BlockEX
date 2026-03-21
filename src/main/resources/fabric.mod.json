@@ -10,18 +10,18 @@
         "DeltaForce (a apart of textures)"
 	],
 	"contact": {
-		"homepage": "https://github.com/PAntomie/BlockEX",
-		"sources": "https://github.com/PAntomie/BlockEX"
+		"homepage": "https://github.com/PhantomDaze/BlockEX",
+		"sources": "https://github.com/PhantomDaze/BlockEX"
 	},
 	"license": "LGPLv3",
 	"icon": "assets/cynblockex/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"io.github.PAntomie.cynblockex.cynblockexMod"
+			"io.github.PhantomDaze.cynblockex.cynblockexMod"
 		],
 		"client": [
-			"io.github.PAntomie.cynblockex.cynblockexClient"
+			"io.github.PhantomDaze.cynblockex.cynblockexClient"
 		]
 	},
 	"mixins": [
