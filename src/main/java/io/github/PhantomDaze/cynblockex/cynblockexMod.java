@@ -1,6 +1,8 @@
 package io.github.PhantomDaze.cynblockex;
 
 import io.github.PhantomDaze.cynblockex.Sapling.ModTreeConfig;
+import io.github.PhantomDaze.cynblockex.Sapling.PalmSaplingGenerator;
+import io.github.PhantomDaze.cynblockex.Sapling.PalmTreeConfig;
 import io.github.PhantomDaze.cynblockex.Sapling.Saplings;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -14,6 +16,8 @@ public class cynblockexMod implements ModInitializer {
     public void onInitialize() {
         UpdateChecker.initialize();
         Saplings.initialize();
+        PalmTreeConfig.initialize();
+        PalmSaplingGenerator.initialize();
         ModBlock.initialize();
         ModItem.initialize();
         ModGroup.initialize();
