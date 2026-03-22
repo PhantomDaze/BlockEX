@@ -39,5 +39,6 @@
 	},
 	"suggests": {
 		"another-mod": "*"
-	}
+	},
+	"accessWidener" : "cynblockex.accesswidener"
 }

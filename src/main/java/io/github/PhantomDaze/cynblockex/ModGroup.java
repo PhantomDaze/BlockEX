@@ -10,6 +10,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.registry.RegistryKey;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
+import io.github.PhantomDaze.cynblockex.Sapling.Saplings;
 
 
 public class ModGroup {
@@ -45,6 +46,7 @@ public class ModGroup {
             itemGroup.add(ModBlock.REACTOR_0);
             itemGroup.add(ModBlock.REACTOR_1);
             itemGroup.add(ModBlock.REACTOR_2);
+            itemGroup.add(Saplings.PALM_SAPLING);
             itemGroup.add(ModItem.UNKNOWN_ITEM);
             });
     }
